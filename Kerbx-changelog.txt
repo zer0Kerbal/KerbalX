@@ -1,0 +1,5 @@
+Version v1.0 for Kerbal Space Program 1.2.2
+
+Released on 2017-05-24
+
+No changelog provided
